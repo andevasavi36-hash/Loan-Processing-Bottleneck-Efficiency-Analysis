@@ -1,0 +1,6 @@
+loan_type_id,loan_type,base_rate,max_amount,risk_category,avg_stage_days
+LT01,Personal Loan,12.5,500000,Medium,4
+LT02,Home Loan,8.5,10000000,Low,7
+LT03,Auto Loan,10,1500000,Low,3
+LT04,Business Loan,14,5000000,High,9
+LT05,Education Loan,9,2000000,Medium,5
